@@ -1,0 +1,13 @@
+.MymeNu{
+    position: sticky;
+    top: 0;
+    z-index: 99;
+}
+.traveldiv {
+    border: 1px solid gray;
+}
+.traveldiv img {
+    width: 90%;
+    margin: 10px;
+    border-radius: 20px;
+}
